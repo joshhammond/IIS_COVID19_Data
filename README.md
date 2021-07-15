@@ -21,7 +21,7 @@ The data (which is updated frequently) is located on Git-Hub here:
 https://github.com/OxCGRT/covid-policy-tracker
 
 
-Table 1: Data Dictionary
+*Table 1: Data Dictionary*
 | Name | Description|	Data Type |	Example |
 | --- | --- | --- | --- |
 |CountryName|	Country Name|	String|	United States|
