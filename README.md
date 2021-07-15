@@ -1,4 +1,4 @@
-This data set (OxCRGT_Cleaned.csv) is being provided along with the submission of the article: **Analyzing COVID-19 time-series data and government policy responses for forecasting deaths** to the International Association for Computer Information Systems (IACIS) - Issues in Information Systems (IIS) Journal.
+This data set (OxCRGT_Cleaned.csv) is being provided along with the submission of the paper "**Analyzing COVID-19 time-series data and government policy responses for forecasting deaths**" to the International Association for Computer Information Systems (IACIS) - Issues in Information Systems (IIS) Journal.
 
 The data set is located here:  https://github.com/joshhammond/IIS_COVID19_Data/tree/main/Data
 
