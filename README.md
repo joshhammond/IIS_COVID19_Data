@@ -22,8 +22,8 @@ https://github.com/OxCGRT/covid-policy-tracker
 
 
 Table 1: Data Dictionary
-| Name | Description|	Data | Type |	Example |
-| --- | --- | --- | --- | --- |
+| Name | Description|	Data Type |	Example |
+| --- | --- | --- | --- |
 |CountryName|	Country Name|	String|	United States|
 |RegionName|	Sub-National Regions (State, etc.)|	String| |	
 |Jurisdiction|	NAT_TOTAL or STATE_TOTAL|	String|	NAT_TOTAL|
