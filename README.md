@@ -1,3 +1,8 @@
+This data set (OxCRGT_Cleaned.csv) is being provided along with the submission of the article: **Analyzing COVID-19 time-series data and government policy responses for forecasting deaths** to the International Association for Computer Information Systems (IACIS) - Issues in Information Systems (IIS) Journal.
+
+The data set is located here:  https://github.com/joshhammond/IIS_COVID19_Data/tree/main/Data
+
+
 # IIS_COVID19_Data
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -14,10 +19,11 @@ This work is licensed under a
 
 Thomas Hale, Noam Angrist, Rafael Goldszmidt, Beatriz Kira, Anna Petherick, Toby Phillips, Samuel Webster, Emily Cameron-Blake, Laura Hallas, Saptarshi Majumdar, and Helen Tatlow. (2021). “A global panel database of pandemic policies (Oxford COVID-19 Government Response Tracker).” Nature Human Behaviour. https://doi.org/10.1038/s41562-021-01079-8
 
-This data is a modification of data provided by the Oxford Covid-19 Government Response Tracker (OxCGRT) project.  The main webpage for the project is located here:
+The data set used in the paper is a modification of source data provided by the Oxford Covid-19 Government Response Tracker (OxCGRT) project.  
+The main webpage for the project is located here:
 https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 
-The data (which is updated frequently) is located on Git-Hub here:
+The OxCGRT source data (which is updated frequently) is located on Git-Hub here:
 https://github.com/OxCGRT/covid-policy-tracker
 
 
