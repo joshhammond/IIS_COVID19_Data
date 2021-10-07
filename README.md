@@ -6,6 +6,10 @@ The Presentation is located here:  https://github.com/joshhammond/IIS_COVID19_Da
 
 The data set is located here:  https://github.com/joshhammond/IIS_COVID19_Data/tree/main/Data
 
+Joshua Hammond, University of St. Thomas (MN)    hamm9537@stthomas.edu
+Melinda Caouette, University of St. Thomas (MN)  caou1088@stthomas.edu
+Dr. Manjeet Rege, University of St. Thomas (MN)  rege@stthomas.edu
+
 
 # IIS_COVID19_Data
 
